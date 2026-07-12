@@ -8,7 +8,7 @@ An end-to-end **Natural Language Processing (NLP)** and **Machine Learning** pro
 
 ## 🎯 Project Objective
 
-Develop an intelligent phishing email detection system capable of distinguishing between legitimate and phishing/spam messages using Natural Language Processing and Machine Learning techniques.
+Develop an intelligent phishing email detection system capable of distinguishing between legitimate and phishing/spam messages using Natural Language Processing (NLP) and Machine Learning techniques.
 
 ---
 
@@ -22,6 +22,7 @@ Develop an intelligent phishing email detection system capable of distinguishing
 - Matplotlib
 - Streamlit
 - Joblib
+- SciPy
 - Jupyter Notebook
 
 ---
@@ -32,11 +33,19 @@ Develop an intelligent phishing email detection system capable of distinguishing
 AI-Driven-Phishing-Email-Detection-Using-NLP/
 
 ├── dataset/
+│   ├── raw/
+│   └── processed/
+│
 ├── notebooks/
+│
 ├── models/
+│
 ├── reports/
+│
 ├── images/
+│
 ├── presentation/
+│
 ├── app.py
 ├── requirements.txt
 ├── README.md
@@ -51,8 +60,8 @@ AI-Driven-Phishing-Email-Detection-Using-NLP/
 - ✅ Notebook 02 – Data Collection
 - ✅ Notebook 03 – Data Understanding
 - ✅ Notebook 04 – Exploratory Data Analysis (EDA)
-- ⏳ Notebook 05 – Text Preprocessing
-- ⏳ Notebook 06 – Feature Engineering
+- ✅ Notebook 05 – Text Preprocessing
+- ✅ Notebook 06 – Feature Engineering
 - ⏳ Notebook 07 – Model Training
 - ⏳ Notebook 08 – Model Evaluation
 - ⏳ Notebook 09 – Email Prediction
@@ -60,24 +69,36 @@ AI-Driven-Phishing-Email-Detection-Using-NLP/
 
 ---
 
-## 📌 Current Status
+## ✅ Completed Work
 
-Completed:
+- Project setup and environment configuration
+- Dataset collection and cleaning
+- Dataset understanding and statistical analysis
+- Exploratory Data Analysis (EDA)
+- NLP text preprocessing pipeline
+- TF-IDF feature extraction
+- Metadata feature engineering
+- Train/Test dataset preparation
+- Feature vector generation for machine learning
 
-- Project setup
-- Dataset collection
-- Initial dataset cleaning
-- Dataset understanding
-- Exploratory data analysis
+---
 
-Upcoming:
+## 🚀 Upcoming Work
 
-- NLP preprocessing pipeline
-- TF-IDF feature engineering
-- Machine learning model training
-- Performance evaluation
-- Interactive prediction system
-- Streamlit deployment
+- Train multiple machine learning models
+- Compare model performance
+- Evaluate using confusion matrix and classification report
+- Build prediction pipeline
+- Develop interactive Streamlit web application
+- Final documentation and deployment
+
+---
+
+## 📌 Project Status
+
+**Current Phase:** Feature Engineering Completed
+
+**Next Milestone:** Model Training and Performance Comparison
 
 ---
 
