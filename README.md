@@ -62,7 +62,7 @@ AI-Driven-Phishing-Email-Detection-Using-NLP/
 - ✅ Notebook 04 – Exploratory Data Analysis (EDA)
 - ✅ Notebook 05 – Text Preprocessing
 - ✅ Notebook 06 – Feature Engineering
-- ⏳ Notebook 07 – Model Training
+- ✅ Notebook 07 – Model Training
 - ⏳ Notebook 08 – Model Evaluation
 - ⏳ Notebook 09 – Email Prediction
 - ⏳ Notebook 10 – Streamlit Deployment
