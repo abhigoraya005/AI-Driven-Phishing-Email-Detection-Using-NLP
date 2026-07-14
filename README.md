@@ -63,7 +63,7 @@ AI-Driven-Phishing-Email-Detection-Using-NLP/
 - ✅ Notebook 05 – Text Preprocessing
 - ✅ Notebook 06 – Feature Engineering
 - ✅ Notebook 07 – Model Training
-- ⏳ Notebook 08 – Model Evaluation
+- ✅ Notebook 08 – Model Evaluation
 - ⏳ Notebook 09 – Email Prediction
 - ⏳ Notebook 10 – Streamlit Deployment
 
@@ -85,7 +85,6 @@ AI-Driven-Phishing-Email-Detection-Using-NLP/
 
 ## 🚀 Upcoming Work
 
-- Train multiple machine learning models
 - Compare model performance
 - Evaluate using confusion matrix and classification report
 - Build prediction pipeline
@@ -96,9 +95,9 @@ AI-Driven-Phishing-Email-Detection-Using-NLP/
 
 ## 📌 Project Status
 
-**Current Phase:** Feature Engineering Completed
+Current Phase: Model Evaluation Completed
 
-**Next Milestone:** Model Training and Performance Comparison
+Next Milestone: Prediction System
 
 ---
 
