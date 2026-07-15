@@ -64,7 +64,7 @@ AI-Driven-Phishing-Email-Detection-Using-NLP/
 - ✅ Notebook 06 – Feature Engineering
 - ✅ Notebook 07 – Model Training
 - ✅ Notebook 08 – Model Evaluation
-- ⏳ Notebook 09 – Email Prediction
+- ✅ Notebook 09 – Email Prediction
 - ⏳ Notebook 10 – Streamlit Deployment
 
 ---
@@ -95,9 +95,10 @@ AI-Driven-Phishing-Email-Detection-Using-NLP/
 
 ## 📌 Project Status
 
-Current Phase: Model Evaluation Completed
 
-Next Milestone: Prediction System
+**Current Phase:** Email Prediction System Completed
+
+**Next Milestone:** Streamlit Web Application & Deployment
 
 ---
 
